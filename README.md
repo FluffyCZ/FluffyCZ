@@ -30,6 +30,3 @@
 **Hardware & Tools:**
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-## 📊 GitHub Stats
-![FluffyCZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=FluffyCZ&show_icons=true&theme=dracula&hide_border=true)
